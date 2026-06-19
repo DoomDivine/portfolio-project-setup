@@ -24,4 +24,4 @@ Experts were selected based on:
 7. Peep Laja
 8. Tas Bober
 9. Gaetano DiNardi
-10.Tyler Denk
+10. Tyler Denk
