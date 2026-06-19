@@ -63,3 +63,100 @@ Logged into required accounts and verified permissions.
 This exercise demonstrated how modern AI-assisted development environments combine coding tools, version control, and AI agents to improve productivity.
 
 I also learned the basic workflow for creating repositories, tracking changes with Git, and publishing projects to GitHub.
+
+
+# Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+## Objective
+
+The objective of this project was to study how successful B2B SaaS marketers, founders, and creators use LinkedIn to build audiences, establish authority, generate demand, and create business opportunities.
+
+## What I Collected
+
+The repository contains research from 10 experts in B2B SaaS marketing, LinkedIn growth, content strategy, positioning, audience development, and creator-led growth.
+
+For each expert, I collected:
+
+* LinkedIn profile information
+* Analysis of 3 LinkedIn posts
+* Analysis of 1 YouTube video, podcast, or long-form content source
+* Key takeaways and recurring themes
+
+The research is organized into:
+
+* `research/sources.md`
+* `research/linkedin-posts/`
+* `research/youtube-transcripts/`
+* `research/other/`
+
+## Why I Chose These Experts
+
+The experts were selected because they represent different aspects of LinkedIn-led growth and B2B SaaS marketing:
+
+### Justin Welsh
+
+Audience growth, personal branding, and content systems.
+
+### Dave Gerhardt
+
+Brand marketing, demand generation, and community building.
+
+### Amanda Natividad
+
+Zero-click marketing and audience research.
+
+### Austin Belcak
+
+LinkedIn growth, networking, and engagement strategies.
+
+### Ross Simmonds
+
+Content distribution and content repurposing.
+
+### Peep Laja
+
+Positioning, messaging, and differentiation.
+
+### Matt Gray
+
+Personal branding, content systems, and creator-led growth.
+
+### Gaetano DiNardi
+
+SEO, demand generation, and AI-driven search trends.
+
+### Tas Bober
+
+Landing page strategy, positioning, and conversion-focused content.
+
+### Tyler Denk
+
+Newsletter growth, audience ownership, and creator monetization.
+
+## Key Patterns Observed
+
+Several recurring themes appeared across multiple experts:
+
+* Consistency is more important than virality.
+* Distribution is as important as content creation.
+* Audience trust compounds over time.
+* Clear positioning improves content performance.
+* Owning an audience is more valuable than relying solely on social platforms.
+* Content systems outperform one-off content efforts.
+
+## Tools Used
+
+* Cursor IDE
+* Claude Code
+* Codex
+* GitHub
+
+## Research Methodology
+
+1. Selected a focused research topic.
+2. Identified 10 high-signal practitioners.
+3. Collected LinkedIn content and long-form educational material.
+4. Organized research into structured folders.
+5. Summarized key lessons and recurring themes.
+6. Maintained version control through regular Git commits.
+
