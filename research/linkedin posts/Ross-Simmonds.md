@@ -1,4 +1,5 @@
 Ross Simmonds
+
 Why Selected
 
 Ross Simmonds is the founder of Foundation Marketing and author of Create Once, Distribute Forever. He is widely recognized for his expertise in content distribution, B2B SaaS marketing, LinkedIn growth, and content repurposing. His work focuses on helping brands maximize the reach of their content through strategic distribution rather than simply creating more content.
