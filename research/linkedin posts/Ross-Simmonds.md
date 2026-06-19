@@ -13,6 +13,7 @@ Website:
 https://foundationinc.co
 
 LinkedIn Post 1
+
 Title
 
 How to Make Your Content Drive Business That Converts
@@ -30,6 +31,7 @@ Key Takeaway
 One high-quality piece of content can generate significantly more impact when distributed effectively across multiple channels.
 
 LinkedIn Post 2
+
 Title
 
 How to Turn Social Media Into Your Most Profitable Channel
@@ -47,6 +49,7 @@ Key Takeaway
 Consistent content frameworks create more sustainable growth than posting without a clear strategy.
 
 LinkedIn Post 3
+
 Title
 
 How To Do Content Marketing Effectively
