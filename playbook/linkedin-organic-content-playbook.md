@@ -1413,3 +1413,90 @@ Although the experts differ in execution, they consistently agree on several fou
 Where differences exist, this playbook recommends the approach that offers the strongest balance between sustainability, quality, and long-term business value.
 
 
+---
+
+# Chapter 6 – What I Rejected and Why
+
+## Purpose
+
+The objective of this playbook was not to include every recommendation collected during the research phase. Instead, the goal was to identify the most practical and repeatable strategies for a B2B SaaS professional who wants to build a sustainable LinkedIn presence.
+
+Several ideas were intentionally excluded because they were either too situational, difficult to apply consistently, or did not align with the long-term objectives of this playbook.
+
+---
+
+# Rejected Recommendation 1 – Publish Every Day Regardless of Quality
+
+Several creators recommend publishing daily because repetition accelerates learning and increases visibility.
+
+Although this approach has clear advantages, it was not adopted as a core recommendation.
+
+## Why It Was Rejected
+
+Daily publishing can become difficult to sustain for professionals with demanding full-time roles.
+
+When publishing becomes the primary objective, creators may begin producing lower-quality content simply to maintain consistency.
+
+This playbook prioritizes educational value and long-term sustainability over publishing frequency.
+
+Instead, a target of three to five well-researched posts per week was recommended.
+
+---
+
+# Rejected Recommendation 2 – Optimize Primarily for Virality
+
+Some LinkedIn creators intentionally write controversial opinions or highly emotional posts to maximize reach.
+
+Although these techniques can increase impressions, they do not always improve trust or attract the right audience.
+
+## Why It Was Rejected
+
+The purpose of this playbook is to help B2B SaaS professionals establish credibility and authority.
+
+Posts designed primarily to generate viral engagement often produce short-term attention but may weaken long-term positioning if they are not aligned with genuine expertise.
+
+Educational content that solves real business problems is more consistent with the objectives of this playbook.
+
+---
+
+# Rejected Recommendation 3 – Measure Success Using Follower Count Alone
+
+Follower growth is frequently used as a public indicator of success.
+
+However, follower count alone provides very little insight into business impact.
+
+## Why It Was Rejected
+
+A creator with a smaller but highly engaged audience may generate significantly more opportunities than someone with a much larger but less relevant audience.
+
+For this reason, this playbook recommends tracking engagement quality, profile visits, inbound conversations, and business outcomes rather than follower count alone.
+
+---
+
+# Rejected Recommendation 4 – Constantly Chase Trending Topics
+
+Trending topics can temporarily increase visibility.
+
+However, continuously changing focus to follow trends often weakens positioning.
+
+## Why It Was Rejected
+
+Successful creators consistently reinforce a limited number of core themes.
+
+Maintaining clear content pillars helps audiences understand what expertise the creator is known for.
+
+This playbook therefore recommends using trends selectively and only when they align with existing content pillars.
+
+---
+
+# Summary
+
+The recommendations excluded from this playbook were not necessarily incorrect.
+
+They were excluded because they were less suitable for the primary objective of this project:
+
+Building a sustainable, trustworthy, and educational LinkedIn presence for B2B SaaS professionals.
+
+The emphasis throughout this playbook is on long-term authority rather than short-term visibility.
+
+
