@@ -1712,3 +1712,81 @@ This playbook is intended to serve as a structured starting point rather than a 
 Its greatest value lies in providing a repeatable framework for content planning, publishing, engagement, and continuous improvement while encouraging users to apply critical thinking and adapt strategies to their own circumstances.
 
 
+---
+
+# Chapter 9 – One Expert I Would Not Prioritize for This Playbook
+
+## Purpose
+
+The objective of this section is not to criticize any practitioner included in the research. Every expert selected contributed valuable perspectives and demonstrated significant expertise within their field.
+
+However, because this playbook has a specific objective—developing an organic LinkedIn content strategy for B2B SaaS professionals—not every expert's advice aligns equally well with that objective.
+
+For that reason, if I were recommending a single expert to deprioritize for readers using this playbook, I would choose Matt Gray.
+
+---
+
+# Why Matt Gray?
+
+Matt Gray provides excellent guidance on:
+
+- Personal branding
+- Audience growth
+- Creator businesses
+- Productivity systems
+- AI-assisted content creation
+
+These topics are valuable for entrepreneurs, creators, and individuals building audience-based businesses.
+
+However, much of his content focuses on growing creator brands rather than addressing the broader marketing challenges faced by B2B SaaS organizations.
+
+---
+
+# Why I Did Not Prioritize His Approach
+
+This playbook focuses on helping B2B SaaS professionals build authority through educational content that supports long-term marketing objectives.
+
+Many of Matt Gray's recommendations are optimized for creators seeking rapid audience growth.
+
+While these methods can be highly effective, they are not always directly applicable to:
+
+- SaaS marketing teams
+- Product marketing
+- Demand generation
+- Positioning
+- Customer education
+
+For these objectives, practitioners such as Dave Gerhardt, Amanda Natividad, Peep Laja, and Ross Simmonds provided guidance that aligned more closely with the goals of this playbook.
+
+---
+
+# Important Clarification
+
+This decision should not be interpreted as a criticism of Matt Gray's work.
+
+His research contributed valuable ideas regarding:
+
+- Content systems
+- Publishing consistency
+- Audience building
+
+Several of these ideas have been incorporated into this playbook.
+
+The decision simply reflects the narrower scope of this document.
+
+If the objective were to build a creator-led business or grow an individual creator brand, Matt Gray would likely become one of the primary recommended experts.
+
+---
+
+# Key Lesson
+
+One of the most important insights gained during this research project is that the value of an expert depends heavily on context.
+
+Rather than searching for a single "best" expert, marketers should select advice that aligns with:
+
+- Their audience
+- Their business model
+- Their objectives
+- Their available resources
+
+This principle guided the recommendations throughout this playbook.
