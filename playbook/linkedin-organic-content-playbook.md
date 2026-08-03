@@ -1611,3 +1611,104 @@ Rather than treating content creation as a series of individual posts, these ide
 I believe these additions strengthen the playbook by making it more practical for long-term use within a B2B SaaS marketing team.
 
 
+---
+
+# Chapter 8 – Weaknesses of This Playbook
+
+## Purpose
+
+No playbook can provide a universal solution for every individual, company, or industry. While this document synthesizes insights from experienced practitioners, its recommendations should be viewed as a practical framework rather than absolute rules.
+
+The following limitations should be considered when applying this playbook.
+
+---
+
+# Limitation 1 – Focused Primarily on Organic LinkedIn Growth
+
+This playbook intentionally focuses on organic content strategy.
+
+It does not include:
+
+- LinkedIn Advertising
+- Cold outreach campaigns
+- Account-Based Marketing (ABM)
+- Sales prospecting workflows
+- CRM integration
+- Marketing automation
+
+Organizations relying heavily on paid acquisition or outbound sales would require additional operating procedures beyond the scope of this document.
+
+---
+
+# Limitation 2 – Based Mainly on Individual Creator Experience
+
+Most research sources used in this project are practitioners who have successfully built personal brands through LinkedIn.
+
+While their experience provides valuable practical insights, their recommendations may not always translate directly to:
+
+- Large enterprise organizations
+- Highly regulated industries
+- Government organizations
+- Non-profit institutions
+
+Implementation should therefore be adapted to each organization's context.
+
+---
+
+# Limitation 3 – Platform Algorithms Continue to Change
+
+LinkedIn continuously updates its recommendation systems, content ranking algorithms, and platform features.
+
+Strategies that perform well today may become less effective in the future.
+
+For this reason, regular experimentation and performance analysis remain essential.
+
+This playbook should be reviewed and updated periodically.
+
+---
+
+# Limitation 4 – Content Quality Remains Subjective
+
+Although this playbook provides structured workflows and quality checklists, content quality ultimately depends on:
+
+- Audience relevance
+- Writing ability
+- Industry knowledge
+- Communication skills
+- Authenticity
+
+No checklist can guarantee high-performing content.
+
+The effectiveness of each recommendation depends on thoughtful execution.
+
+---
+
+# Limitation 5 – Limited Research Sample
+
+The playbook synthesizes research from ten practitioners.
+
+Although these experts represent diverse perspectives within B2B SaaS marketing, they do not represent every successful approach to LinkedIn growth.
+
+Additional research from future practitioners may strengthen or modify these recommendations.
+
+---
+
+# Mitigating These Limitations
+
+To reduce these limitations, users should:
+
+- Review LinkedIn performance metrics regularly.
+- Continue learning from new practitioners.
+- Adapt recommendations to their own industry.
+- Test new approaches rather than following the playbook rigidly.
+- Update workflows as audience behavior evolves.
+
+---
+
+# Conclusion
+
+This playbook is intended to serve as a structured starting point rather than a definitive rulebook.
+
+Its greatest value lies in providing a repeatable framework for content planning, publishing, engagement, and continuous improvement while encouraging users to apply critical thinking and adapt strategies to their own circumstances.
+
+
